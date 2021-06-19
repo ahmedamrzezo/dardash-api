@@ -1,0 +1,16 @@
+{
+  "name": "dardash-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "serve": "nodemon src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ahmedamrzezo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
